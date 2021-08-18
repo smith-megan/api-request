@@ -1,0 +1,19 @@
+body {
+  display: grid;
+  text-align: center;
+  background-color: black;
+  color: yellow;
+  font-size: 2.0em;
+  font-family: 'Pathway Gothic One', sans-serif;
+}
+
+#main-btn{
+  background-color: rgb(189, 99, 189);
+  border: none;
+  border-radius: 25px;
+  padding: 3%;
+  font-size: 2em;
+  font-family: 'Pathway Gothic One', sans-serif;
+  color: white;
+  cursor: pointer;
+}
